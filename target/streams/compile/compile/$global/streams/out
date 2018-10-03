@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Development\yabbu\app\controllers\HomeController.java:57:1:  error: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m            return ok(gson.toJson(meeting,Meeting.class) );[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^  symbol:   variable meeting[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class HomeController[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Development\yabbu\app\controllers\HomeController.java:59:1:  error: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m        return ok(gson.toJson(meeting,Meeting.class) );[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^  symbol:   variable meeting[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class HomeController[0m
+[0m[[0m[31merror[0m] [0m[0m2 errors[0m

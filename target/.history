@@ -1,0 +1,23 @@
+compile
+eclipse
+exit
+compile
+eclipse
+exit
+compile
+clean compile
+play clean compile
+run
+compile
+update
+compile
+update
+compile
+run
+compile
+update
+run
+clear
+run
+compile
+run
